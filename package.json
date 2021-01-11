@@ -1,0 +1,14 @@
+{
+  "name": "cli-web-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Florent Grd",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
